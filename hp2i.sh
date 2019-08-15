@@ -14,4 +14,8 @@ for year in $years; do
   filter "$content" "Beijing" $year
   filter "$content" "Hong Kong" $year
   filter "$content" "San Francisco" $year
+  filter "$content" "San Jose" $year
+  filter "$content" "Seattle" $year
+  filter "$content" "Tokyo" $year
+  filter "$content" "Austin" $year
 done
