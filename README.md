@@ -1,4 +1,4 @@
 HP2I
 ====
 
-Crawl `house price t income ratio` from numbeo.com
+Crawl `house price to income ratio` from numbeo.com
